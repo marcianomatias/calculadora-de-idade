@@ -1,0 +1,89 @@
+
+body {
+  margin: 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  padding: 20px; 
+  background-color: #f7f7f7;
+}
+
+.container {
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 1 );
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+  margin-top: 50px;
+  border-radius: 5px;
+}
+
+h1{
+  font-size: 36px;
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 20px;
+  color: #0062cc;
+}
+
+.form {
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+}
+
+label {
+  
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+input {
+  padding: 8px;
+  border: 1px solid #ccc;
+  width: 100%;
+  max-width: 300px;
+}
+
+button {
+  background-color: rgb(28, 28, 133);
+  color: white;
+  border:none;
+  -webkit-box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.46); 
+box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.46);
+
+  padding: 10px 20px;
+  border-radius: 5px;
+  margin-top: 15px;
+  cursor: pointer;
+  transition: background-color .3s ease;
+}
+
+button:hover {
+  background-color: #0062cc;
+
+}
+
+#result {
+  margin-top: 20px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+@media (max-width: 600px) {
+  h1 {
+    color: red;
+  }
+}
+
+.container {
+  width: 80%; /* A largura será 80% do elemento pai */
+  font-size: 1.2em; /* O tamanho da fonte será 1.2 vezes o tamanho padrão */
+}
+ button {
+  padding: 10px 20px;
+  transition: background-color .3s ease;
+ }
+
+ button:hover {
+  background-color: #0062cc;
+
+}
