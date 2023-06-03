@@ -36,5 +36,5 @@ Sinta-se à vontade para enviar sugestões de melhorias, relatar problemas ou fa
 
 Este projeto está licenciado sob a [Licença MIT](link-para-a-licenca).
 ## Imagens
-![Erro ao carregar a imagem](https://github.com/marcianomatias/calculadora-de-idade/blob/main/img/Captura%20de%20tela%20de%202023-06-02%2022-30-55.png.)
-![Erro ao carregar a imagem](https://github.com/marcianomatias/calculadora-de-idade/blob/main/img/Captura%20de%20tela%20de%202023-06-02%2022-31-26.png.)
+![Erro ao carregar a imagem](https://github.com/marcianomatias/calculadora-de-idade/blob/main/img/Captura%20de%20tela%20de%202023-06-02%2022-30-55.png)
+![Erro ao carregar a imagem](https://github.com/marcianomatias/calculadora-de-idade/blob/main/img/Captura%20de%20tela%20de%202023-06-02%2022-31-26.png)
